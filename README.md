@@ -8,8 +8,8 @@ _Простой виджет для вывода на экран играюще�
 ```python
 music_d = {
     None: "Сейчас ничего не играет",
-	"audio/PG_Silhouette": "Pastel Ghost — Silhouette",
-	"audio/MegaDrive_Hexe": "Mega Drive — H.exe",
-	"audio/MegaDrive_NARC": "Mega Drive — NARC"
+    "audio/PG_Silhouette": "Pastel Ghost — Silhouette",
+    "audio/MegaDrive_Hexe": "Mega Drive — H.exe",
+    "audio/MegaDrive_NARC": "Mega Drive — NARC"
 }
 ```
